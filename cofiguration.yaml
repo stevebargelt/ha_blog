@@ -1,5 +1,5 @@
 homeassistant:
-  name: Bargelt Home
+  name: Bargelt Home 22
   latitude: !secret latitude
   longitude: !secret longitude
   elevation: 273
